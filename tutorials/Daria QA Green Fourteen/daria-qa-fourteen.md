@@ -1,5 +1,5 @@
 ---
-title: Daria QA Green Fourteen changed
+title: Daria QA Green Fourteen
 description: Build and deploy a multi-target application (MTA) project in SAP Web IDE, generate a test notification in SAP IoT, and launch the decision support application.
 author_name: Jitendra Sharma
 author_profile: https://github.com/JitendraSharma01
