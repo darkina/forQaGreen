@@ -3,7 +3,7 @@ title: Daria QA Green Eleven K
 description: Offline OData consists of many pieces at the back-end and the front-end that eventually make offline OData work, without being in the way of the developer. This tutorial will explain how all components work together to achieve this.
 auto_validation: true
 primary_tag: products>sap-business-technology-platform
-tags: [  tutorial>intermediate, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services ]
+tags: [  tutorial>intermediate, tutorial>community, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services ]
 time: 15
 ---
 
