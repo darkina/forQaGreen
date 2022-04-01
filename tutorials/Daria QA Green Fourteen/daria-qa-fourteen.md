@@ -132,3 +132,21 @@ If you make any changes to an MTA project, you'll need to build and deploy the p
 
 [DONE]
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 6: ](Check notification in launchpad site)]
+
+ Some text for step 6
+
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step : ](No number step)]
+
+ 
+
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN]
+
+[ACCORDION-END]
