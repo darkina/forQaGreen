@@ -1,6 +1,6 @@
 ---
 title: Daria QA Green Four D
-description: Call a remote function module located in an on-premise system, such as a SAP S/4HANA System, from the ABAP Environment
+description: Call a remote function module located in an on-premise system, such as a SAP S/4HANA System, from the ABAP Environment. Testo test
 auto_validation: true
 time: 60
 tags: [ tutorial>advanced, products>sap-mobile-cards, tutorial>license]
