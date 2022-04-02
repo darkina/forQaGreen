@@ -17,6 +17,7 @@ primary_tag: products>sap-mobile-cards
 
 ## Details
 ### You will learn
+  - [Go to line 113](#some-text)
   - How to open a secure tunnel connection between your SAP Cloud Platform ABAP Environment and an on-premise SAP System, e.g. SAP S/4HANA
   - How to create a destination service instance with HTTP and RFC connections
   - How to create a communication arrangement to integrate this destination service
@@ -108,6 +109,9 @@ The mapping should now look something like this. Check that the status = `Reacha
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 3: ](Specify the remote function modules and BAPIs)]
+
+## <a name="some-text">It leads here.</a>
+
 Now, still in the **Cloud to On-Premise > Access Control** tab, enter the resource you need, `RFC_SYSTEM_INFO`.
 
 1. Add the resource **`RFC_SYSTEM_INFO`** by choosing the **Protocol = RFC**, then choosing **+**.
