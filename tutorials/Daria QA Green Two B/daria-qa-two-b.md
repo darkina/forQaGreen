@@ -1,6 +1,6 @@
 ---
 title: Daria QA Green Two B
-description: ADMINTOOL final
+description: ADMINTOOL final cat dog
 tags: [tutorial>advanced, topic>abap-development]
 primary_tag: topic>artificial-intelligence
 time: 33 min
