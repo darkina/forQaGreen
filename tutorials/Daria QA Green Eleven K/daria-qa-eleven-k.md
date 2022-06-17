@@ -49,6 +49,8 @@ Please find a schematic representation of the synchronization flow below:
 
 Test image description
 
+![Delete existing registration](image-1.png)
+
 [DONE]
 [ACCORDION-END]
 
